@@ -1,4 +1,4 @@
-# 
+# Seguro AI Expense Tracker with NLP herramientas. Con reconocimiento de voz y análisis de sentimientos — optimizado para el máximo rendimiento.
 
 
 
